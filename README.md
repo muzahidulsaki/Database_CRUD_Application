@@ -9,6 +9,9 @@ C# application with using WinForms and SQL Server. Admin/User authorization and 
 - update records
 - search whole database by specified field
 
+#### `Youtube video description`
+https://youtu.be/NS0ygtWWhBI?si=JEqSF8LwFQ5p7Qa-
+
 #### `Technologies` 
 ---
 The application was created in C# Win Forms and SQL, using Visual Studio 2022
